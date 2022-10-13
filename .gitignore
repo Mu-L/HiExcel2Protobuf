@@ -1,5 +1,6 @@
-/src/HiProtobuf.UI/obj
-*/obj
-/src/HiProtobuf.Lib/obj
-/src/HiProtobuf.Test/obj
-/src/.vs
+.vscode
+__pycache__
+/log.txt
+AutoGenerate_Data
+AutoGenerate_Language
+Temp
